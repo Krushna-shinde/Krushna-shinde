@@ -7,7 +7,7 @@
 - 👨‍💻 I have knowledge about **React**
 
 - 👨‍💻 All of my projects are available at
-[https://krushnashinde.github.io/my_portfolio/](https://krushnashinde.github.io/my_portfolio/)
+[https://krushna-shinde.github.io/my_portfolio/](https://krushna-shinde.github.io/my_portfolio/)
 
 - 💬 Ask me about **react**
 
