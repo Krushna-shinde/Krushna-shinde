@@ -95,11 +95,10 @@
         alt="Krushna-shinde" /></p>
 
 #
-
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=krushna-shinde&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krushna-shinde"
     alt="krushna-shinde"
   />
 </p>
