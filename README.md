@@ -94,5 +94,12 @@
         src="https://github-readme-stats.vercel.app/api?username=Krushna-shinde&show_icons=true&locale=en"
         alt="Krushna-shinde" /></p>
 
-[![Contribution Streak](https://img.shields.io/github/last-commit/krushna-shinde/Resume-Builder?label=Contribution%20Streak&style=flat-square)](https://github.com/krushna-shinde/Resume-Builder)
+#
 
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krushna-shinde&"
+    alt="krushna-shinde"
+  />
+</p>
