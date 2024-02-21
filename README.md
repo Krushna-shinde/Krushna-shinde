@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **krishnashinde1996@gmail.com**
 
-- 📄 Know about my experiences
-[https://drive.google.com/drive/folders/1kgZSBqpdyW6fdbXEL-Kcok0CovVG9zoA](https://drive.google.com/drive/folders/1kgZSBqpdyW6fdbXEL-Kcok0CovVG9zoA)
+- 📄 [Check my resume][https://drive.google.com/drive/folders/1kgZSBqpdyW6fdbXEL-Kcok0CovVG9zoA](https://drive.google.com/drive/folders/1kgZSBqpdyW6fdbXEL-Kcok0CovVG9zoA)
 
 <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="animated.gif" width="400">
 
